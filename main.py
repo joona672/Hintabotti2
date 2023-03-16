@@ -5,13 +5,15 @@ from selenium.webdriver.common.by import By
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import InvalidArgumentException
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import time
 
 
 fireOp = Options()
 
-#fireOp.add_argument("--headless")
-
+fireOp.add_argument("--headless")
+vertailu = {}
 HEADERS = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69'}
 
 
@@ -25,19 +27,23 @@ kaupat = {'Skauppa': ("https://www.s-kaupat.fi/tuote/paulig-juhla-mokka-kahvi-su
 
 #del kaupat['Skauppa']
 
-print(len(kaupat))
+
 #kaupat = dict(sorted(kaupat.items()), reversed=True)
 
 
-time.sleep(2)
+
 
 for name, data in kaupat.items():
-    print(data[0])
     driver.get(data[0])
 
 
-    hinta = driver.find_element_by_xpath(data[1]).text
+    #hinta = driver.find_element_by_xpath(data[1]).text
 
+    hinta = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, data[1]))).text
+    hinta = hinta.replace("~", "").replace("€", "").replace(" ","").replace(",",".")
+    hinta = float(hinta)
+    vertailu[name] = hinta
+    #vertailu = sorted(vertailu.values())
     print(f'Kaupan nimi: {name} Kahvin hinta: {hinta}')
 
 

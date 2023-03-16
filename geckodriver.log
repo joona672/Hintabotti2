@@ -383,9 +383,8 @@ Read port: 61428
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileszgibo\\search.json.mozlz4", (void 0)))
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Joona\AppData\Local\Temp\rust_mozprofileszgibo\bookmarkbackups\bookmarks-2023-03-15_11_Db7FgHonXfC8XKjmj86yzQ==.jsonlz4) because it does not exist
-
-*** You are running in headless mode.
-1678895433809	Marionette	INFO	Marionette enabled
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+9	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1678895433813	Marionette	INFO	Listening on port 61526
 Read port: 61526
@@ -393,8 +392,8 @@ Read port: 61526
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofilecNIFd8\\search.json.mozlz4", (void 0)))
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
-1:62015
-1678895818333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileeTQmXb"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileeTQmXb"
 *** You are running in headless mode.
 1678895818644	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -404,8 +403,8 @@ Read port: 62027
 [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileeTQmXb\\search.json.mozlz4", (void 0)))
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
-1:62309
-1678896079343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofile4pzNI8"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofile4pzNI8"
 *** You are running in headless mode.
 1678896079689	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -416,7 +415,8 @@ Read port: 62320
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofile4pzNI8\\search.json.mozlz4", (void 0)))
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Joona\AppData\Local\Temp\rust_mozprofile4pzNI8\bookmarkbackups\bookmarks-2023-03-15_11_tbMT3r0JiOKHMxAmTfheUQ==.jsonlz4) because it does not exist
-\Joona\\AppData\\Local\\Temp\\rust_mozprofileeLyOmq"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
 *** You are running in headless mode.
 1678896654736	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -427,9 +427,8 @@ Read port: 52733
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileeLyOmq\\search.json.mozlz4", (void 0)))
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Joona\AppData\Local\Temp\rust_mozprofileeLyOmq\bookmarkbackups\bookmarks-2023-03-15_11_pqu5wiMROFkKM2Tzo4yxxg==.jsonlz4) because it does not exist
-
-*** You are running in headless mode.
-1678896996967	Marionette	INFO	Marionette enabled
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+7	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1678896996971	Marionette	INFO	Listening on port 53067
 Read port: 53067
@@ -438,9 +437,8 @@ Read port: 53067
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofilemdvZKE\\search.json.mozlz4", (void 0)))
 [GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
 JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Joona\AppData\Local\Temp\rust_mozprofilemdvZKE\bookmarkbackups\bookmarks-2023-03-15_11_6aJ3zZVOS15F3-y+TzAs3A==.jsonlz4) because it does not exist
-
-*** You are running in headless mode.
-1678897230118	Marionette	INFO	Marionette enabled
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+8	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1678897230122	Marionette	INFO	Listening on port 53356
 Read port: 53356
@@ -4385,3 +4383,955 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Pha
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1678974009003	geckodriver	INFO	Listening on 127.0.0.1:54073
+1678974012097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileLyUNtc"
+1678974040667	geckodriver	INFO	Listening on 127.0.0.1:54134
+1678974043712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofilecE7ZyM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678974044433	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678974044441	Marionette	INFO	Listening on port 54146
+Read port: 54146
+1678974044684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofilecE7ZyM\\search.json.mozlz4", (void 0)))
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/logger/logger"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/logger/entry-factory"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/logger/logger-utils"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/view/utils/dom-observer"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "moment", needed by: Magento_Ui/js/lib/logger/formatter
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/knockout/template/loader"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/view/utils/bindings"
+https://requirejs.org/docs/errors.html#scripterror
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 572))
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1678974060275	Marionette	INFO	Stopped listening on port 54146
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1678977861010	geckodriver	INFO	Listening on 127.0.0.1:54748
+1678977864067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileXbWL4Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678977864645	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678977864658	Marionette	INFO	Listening on port 54760
+Read port: 54760
+1678977864855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileXbWL4Z\\search.json.mozlz4", (void 0)))
+1678977868484	Marionette	INFO	Stopped listening on port 54760
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 13404, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1678977878397	geckodriver	INFO	Listening on 127.0.0.1:54791
+1678977881416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofile1S96En"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678977881803	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678977881807	Marionette	INFO	Listening on port 54803
+Read port: 54803
+1678977881902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofile1S96En\\search.json.mozlz4", (void 0)))
+console.error: ({})
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/registry/registry", needed by: WeltPixel_GoogleTagManager/js/weltpixel_persistentlayer
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/knockout/extender/observable_array"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/patches/jquery-ui-sortable"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/effects/effect-transfer", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/effects/effect-highlight", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/selectmenu", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/version"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widget", needed by: mage/dataPost, jquery/compat, mage/collapsible
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/jquery-migrate"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/effect", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "mage/url", needed by: Cgi_TokmanniCustomer/js/customer-data
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/datepicker", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Cgi_TokmanniCustomer/js/section-config", needed by: Cgi_TokmanniCustomer/js/customer-data
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/mouse", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "mage/storage", needed by: Cgi_TokmanniCustomer/js/customer-data
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/unique-id"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/tabbable"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/draggable", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/selectable", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/knockout/bindings/bootstrap"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/menu", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/modal/confirm", needed by: mage/dataPost
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/core/storage/local", needed by: WeltPixel_GoogleTagManager/js/weltpixel_persistentlayer
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/focusable"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "knockoutjs/knockout", needed by: Cgi_TokmanniCustomer/js/customer-data, Magento_Ui/js/lib/knockout/bootstrap
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "knockoutjs/knockout-es5", needed by: Magento_Ui/js/lib/knockout/bootstrap
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/scroll-parent"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/jquery-storageapi", needed by: mage/collapsible, Cgi_TokmanniCustomer/js/customer-data
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Cgi_Banners/js/owl.carousel.min", needed by: Cgi_Banners/js/owlcarousel
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/timepicker", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/safe-active-element"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "mage/apply/scripts"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/ie"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/plugin"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/safe-blur"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/disable-selection"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/knockout/extender/bound-nodes"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/knockout/template/engine"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/resizable", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/tabs", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/jquery-patch"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/checkboxradio"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "mage/template", needed by: mage/dataPost
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/tooltip", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/form"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/effects/effect-pulsate", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/labels"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/progressbar", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/effects/effect-slide", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/data"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/sortable"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/controlgroup"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/keycode"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/effects/effect-scale", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/effects/effect-shake", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/position", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "text", needed by: text!js-translation.json_unnormalized4
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/spinner", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+1678977899535	Marionette	INFO	Stopped listening on port 54803
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1678977965414	geckodriver	INFO	Listening on 127.0.0.1:54947
+1678977968449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofilepf9131"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678977968779	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678977968783	Marionette	INFO	Listening on port 54959
+Read port: 54959
+1678977969008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofilepf9131\\search.json.mozlz4", (void 0)))
+console.error: ({})
+1678977989458	geckodriver	INFO	Listening on 127.0.0.1:55018
+1678977992484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofile8hGWzL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678977992811	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678977992816	Marionette	INFO	Listening on port 55029
+Read port: 55029
+1678977992904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofile8hGWzL\\search.json.mozlz4", (void 0)))
+console.error: ({})
+1678978017278	geckodriver	INFO	Listening on 127.0.0.1:55099
+1678978020306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileu2mKBH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678978020643	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678978020648	Marionette	INFO	Listening on port 55110
+Read port: 55110
+1678978020868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileu2mKBH\\search.json.mozlz4", (void 0)))
+console.error: ({})
+1678978045783	geckodriver	INFO	Listening on 127.0.0.1:55173
+1678978048804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileuHrtJw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678978049152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678978049158	Marionette	INFO	Listening on port 55184
+Read port: 55184
+1678978049356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileuHrtJw\\search.json.mozlz4", (void 0)))
+console.error: ({})
+1678978077633	geckodriver	INFO	Listening on 127.0.0.1:55251
+1678978080647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileqk63Lz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678978081012	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678978081017	Marionette	INFO	Listening on port 55263
+Read port: 55263
+1678978081243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileqk63Lz\\search.json.mozlz4", (void 0)))
+console.error: ({})
+JavaScript error: https://app.usercentrics.eu/browser-ui/3.18.0/index.module.js, line 1: Error: Error: Error: {"cmpLayer":"FIRST_LAYER","controllerId":"0840553158796697a16d93cd39692030d0e5c6a32a8fcfa183e07cf2702d473f","msg":"EUD ERROR[V2]: error loading dynamically imported module","origin":"https://www.s-kaupat.fi","settingsId":"Yv591VkI5","settingsVersion":"86.92.256","stackTrace":"","timestamp":"1678978085470","uiVariant":"GDPR","uiVersion":"3.18.0","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0","userCountry":"FI","userRegion":"07"}
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+1678978099153	Marionette	INFO	Stopped listening on port 55263
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1678978199894	geckodriver	INFO	Listening on 127.0.0.1:55451
+1678978202916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofile7ija0y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678978203287	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678978203292	Marionette	INFO	Listening on port 55462
+Read port: 55462
+1678978203487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofile7ija0y\\search.json.mozlz4", (void 0)))
+console.error: ({})
+1678978248683	geckodriver	INFO	Listening on 127.0.0.1:55583
+1678978251716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileXYzlIs"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678978252069	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678978252075	Marionette	INFO	Listening on port 55594
+Read port: 55594
+1678978252298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileXYzlIs\\search.json.mozlz4", (void 0)))
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+1678978293519	geckodriver	INFO	Listening on 127.0.0.1:55712
+1678978296560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofilevopIu6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678978297047	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678978297052	Marionette	INFO	Listening on port 55723
+Read port: 55723
+1678978297149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofilevopIu6\\search.json.mozlz4", (void 0)))
+console.error: ({})
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/scroll-parent"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/version"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/unique-id"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/selectmenu", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/effects/effect-fade", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/safe-blur"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/jquery-patch"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/resizable", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/checkboxradio"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/controlgroup"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/labels"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/registry/registry", needed by: WeltPixel_GoogleTagManager/js/weltpixel_persistentlayer
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/data"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Cgi_TokmanniCustomer/js/section-config", needed by: Cgi_TokmanniCustomer/js/customer-data
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Cgi_Banners/js/owl.carousel.min", needed by: Cgi_Banners/js/owlcarousel
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/patches/jquery-ui-sortable"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/droppable", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/focusable"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/disable-selection"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/modal/modal", needed by: Magento_Ui/js/modal/confirm
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "mage/url", needed by: Cgi_TokmanniCustomer/js/customer-data
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/keycode"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/timepicker", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/effects/effect-slide", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/tooltip", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/datepicker", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "knockoutjs/knockout", needed by: Cgi_TokmanniCustomer/js/customer-data
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/jquery-storageapi", needed by: mage/collapsible, Cgi_TokmanniCustomer/js/customer-data
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/form"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/core/storage/local", needed by: WeltPixel_GoogleTagManager/js/weltpixel_persistentlayer
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/tabs", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "Magento_Ui/js/lib/knockout/bootstrap", needed by: mage/bootstrap
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/progressbar", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/sortable"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/plugin"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/jquery-migrate"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "underscore", needed by: js/main, Cgi_TokmanniCustomer/js/customer-data, WeltPixel_GoogleTagManager/js/weltpixel_persistentlayer, mage/template, Magento_Ui/js/modal/confirm
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/spinner", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "text", needed by: text!js-translation.json_unnormalized4
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/tabbable"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/safe-active-element"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "mage/storage", needed by: Cgi_TokmanniCustomer/js/customer-data
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "mage/apply/main", needed by: mage/bootstrap, mage/mage
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/effects/effect-scale", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/dialog", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "mage/translate", needed by: Magento_Ui/js/modal/confirm
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/effects/effect-fold", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/widgets/menu", needed by: jquery/compat
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/_cache/merged/dd0c97db83a5ecf43bc97bff837ea66e.min.js, line 17: Error: Script error for "jquery/ui-modules/ie"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: Object
+1678978312173	Marionette	INFO	Stopped listening on port 55723
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1678989833422	geckodriver	INFO	Listening on 127.0.0.1:57538
+1678989836453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-no-remote" "-profile" "C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileWNKdnK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678989836911	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678989836918	Marionette	INFO	Listening on port 57550
+Read port: 57550
+1678989837128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Joona\\AppData\\Local\\Temp\\rust_mozprofileWNKdnK\\search.json.mozlz4", (void 0)))
+console.error: ({})
+JavaScript error: https://www.tokmanni.fi/static/version1678856108/frontend/Cgi/tokmanni/fi_FI/Cgi_Banners/js/owl.carousel.min.js, line 6: TypeError: a is undefined
+JavaScript error: https://www.tokmanni.fi/juhla-mokka-500-g-sj-6411300000494, line 1547: TypeError: $(...).owlCarousel is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tokmanni.fi."
+1678989854811	Marionette	INFO	Stopped listening on port 57550
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
